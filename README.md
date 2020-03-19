@@ -4,7 +4,7 @@ This program simulates an imaginary robotic hoover navigating through a room, pi
 
 ## How to run
 
-1. Start the program by opening index.html
+1. Start the program by opening index.html.
 2. Upload the .txt file by clicking on the **Choose File** button and selecting your .txt file. 
 3. Start the simulation by clicking on the **Load Selected File** button. 
 
