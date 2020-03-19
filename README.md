@@ -13,7 +13,6 @@ This program simulates an imaginary robotic hoover navigating through a room, pi
 Program input will be received in a .txt file with the format described here.
 
 Example:
-
 ```
 5 5
 1 2
